@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - ⚡️ &nbsp; Backend Developer Working Remotely In Iran.
-- 📖 &nbsp; High School Student.
+- 📖 &nbsp; College Student.
 - 🌱 &nbsp; I Like Instrumental Musics.
 
 ---
